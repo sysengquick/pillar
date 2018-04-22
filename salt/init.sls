@@ -1,4 +1,4 @@
-salt-master-pem:
+salt-master-pki:
   private: |
       -----BEGIN RSA PRIVATE KEY-----
       MIIEpAIBAAKCAQEAjiwvOT/FOMD4lpYm5rbteLDmu2KnysfYbNwpl3NyGiT2yH38
