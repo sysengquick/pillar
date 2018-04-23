@@ -1,4 +1,6 @@
 base:
-  'debian-clone':
+  cobbler:
+    - cobbler
+  debian-clone:
     - salt
     - users
